@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.2",
-    "axios": "^1.14.0",
+    "axios": "^1.15.0",
     "echarts": "^6.0.0",
     "element-plus": "^2.13.6",
     "vue": "^3.5.30",
@@ -18,6 +18,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.5",
-    "vite": "^8.0.1"
+    "vite": "^8.0.8"
   }
 }
